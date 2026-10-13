@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.esp.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GameRendererMixin",
+    "ShaderLoaderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
